@@ -19,7 +19,7 @@ async def on_message(message):
   channel = message.channel
   
   if message.guild.id != add serevr id here:
-   if message.author.id != 571027211407196161:
+   if message.author.id != author_id:
     return
   embed = message.embeds
   try:
