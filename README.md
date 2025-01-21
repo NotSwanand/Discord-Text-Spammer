@@ -41,3 +41,4 @@ Replace add channel id here with the channel IDs where the bots will post messag
 ```
 python your-script-name.py
 ```
+---
